@@ -33,6 +33,10 @@ div div {
   background: red;
 }
 
+.violet {
+  background: violet; 
+}
+
 .green {
   background: green;
 }
@@ -41,12 +45,24 @@ div div {
   background: blue;
 }
 
+.navy {
+  background: #000881;
+}
+
 .yellow {
   background: yellow;
 }
 
 .pallette-white {
   background: white;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.pallette-violet {
+  background: violet;
   height: 2%;
   width: 1%;
   padding: 10px;
@@ -84,6 +100,14 @@ div div {
 
 .pallette-blue {
   background: blue;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
+
+.pallette-navy {
+  background: #000881;
+  color: white;
   height: 2%;
   width: 1%;
   padding: 10px;
